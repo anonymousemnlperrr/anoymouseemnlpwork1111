@@ -2,21 +2,6 @@
 
 Anonymous architecture-focused release for the main contact-local policy and its data/evaluation pipeline.
 
-Included:
-- core tactile encoder
-- language-guided bottleneck and tactile-language alignment modules
-- contact-local residual routing logic
-- mainline contact-local policy implementation
-- dataset loading and split definitions
-- dataset preprocessing and annotation scripts
-- core evaluation scripts for representation, instruction sensitivity, and summary tables
-
-Excluded on purpose:
-- checkpoints and trained weights
-- configs and machine-specific paths
-- comparison studies and ablations
-- external baseline bridges and result artifacts
-- paper drafts, logs, and dataset contents
 
 ## Notes
 
