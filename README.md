@@ -18,9 +18,3 @@ It still excludes trained weights, raw data, configs, and comparison-only experi
 - torch
 - transformers
 - huggingface_hub
-
-## Optional dependencies
-
-- av
-- scikit-learn
-- matplotlib
