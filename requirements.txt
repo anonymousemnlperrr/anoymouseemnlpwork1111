@@ -1,0 +1,8 @@
+numpy
+pandas
+pillow
+pyyaml
+pyarrow
+torch
+transformers
+huggingface_hub
